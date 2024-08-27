@@ -15,16 +15,16 @@ Formulate strategic recommendations based on the top-performing products by quan
 
 **Business Questions**
 
-What is the total number of orders placed?
-What is the total revenue generated from pizza sales?
-Which pizza is the highest-priced?
-What is the most common pizza size ordered?
-What are the top 5 most ordered pizza types along with their quantities?
-What is the distribution of orders by hour of the day?
-What is the category-wise distribution of pizzas?
-What are the top 3 most ordered pizza types based on revenue?
-What is the percentage contribution of each pizza type to total revenue?
-What are the top 3 most ordered pizza types based on revenue within each pizza category?
+* What is the total number of orders placed?
+* What is the total revenue generated from pizza sales?
+* Which pizza is the highest-priced?
+* What is the most common pizza size ordered?
+* What are the top 5 most ordered pizza types along with their quantities?
+* What is the distribution of orders by hour of the day?
+* What is the category-wise distribution of pizzas?
+* What are the top 3 most ordered pizza types based on revenue?
+* What is the percentage contribution of each pizza type to total revenue?
+* What are the top 3 most ordered pizza types based on revenue within each pizza category?
 
 **Technologies & Tools**
 
