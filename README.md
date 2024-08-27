@@ -28,9 +28,9 @@ Formulate strategic recommendations based on the top-performing products by quan
 
 **Technologies & Tools**
 
-SQL: Utilized for querying and analyzing the sales data.
-MySQL Workbench: Employed for writing and executing SQL queries.
-PowerPoint: Used to visualize the insights and present the findings effectively.
+**SQL:** Utilized for querying and analyzing the sales data.
+**MySQL Workbench:** Employed for writing and executing SQL queries.
+**PowerPoint:** Used to visualize the insights and present the findings effectively.
 
 **Workflow**
 
